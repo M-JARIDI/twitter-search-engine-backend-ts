@@ -28,6 +28,10 @@ TWITTER_ACCESS_TOKEN_KEY='your key'
 TWITTER_ACCESS_TOKEN_SECRET='your key'
 ```
 
+4. To run in local : `npm run devStart`
+
+- Don't forget to install modules `npm install` before running
+
 ---
 
 ### Exercise Node.js / TypeScript + React :
