@@ -22,7 +22,6 @@ router.get("/", (req: Request, res: Response) => {
     { q: searchKeyword, count: 100 },
     function (err: any, tweets: any, response: any) {
       if (!err) {
-        console.log("tweets", tweets);
         res.status(200).json(tweets);
       } else {
         return res.status(500).json({
