@@ -7,7 +7,7 @@ This REST API has two endpoints :
 1. GET /search?q=<keyword> => it searches content related to the keyword on twitter
 2. GET /users/<user_id> => it gets the content related to the user on twitter
 
-> you can find the code source of the REACT APP using this REST API at : [twitter-search-engine-react](https://github.com/M-JARIDI/twitter-search-engine-react-app).
+> you can find the code source of the REACT APP using this REST API at : [twitter-search-engine-react-nodejs](https://twitter-engine-react-nodejs.herokuapp.com/).
 
 ## Getting started in local
 
